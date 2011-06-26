@@ -1,4 +1,4 @@
-survivor_numeric_health
+charger_hs_training
 	author: kiomto
 
 LICENCE
